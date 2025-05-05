@@ -1,0 +1,80 @@
+register hats $20.50
+register socks $3.45
+register shirts $15.99
+register pants $35.75
+register shoes $89.99
+register jackets $120.00
+register belts $25.50
+register sunglasses $45.25
+register watches $199.99
+register backpacks $59.95
+
+checkin hats 500
+checkin socks 1000
+checkin shirts 300
+checkin pants 200
+checkin shoes 150
+checkin jackets 100
+checkin belts 250
+checkin sunglasses 180
+checkin watches 75
+checkin backpacks 120
+
+order alice hats 5
+order bob socks 12
+order carol shirts 3
+order dave pants 2
+order eve shoes 1
+order frank jackets 1
+order grace belts 4
+order henry sunglasses 2
+order isabel watches 1
+order jack backpacks 1
+
+order alice socks 10
+order bob shirts 2
+order carol pants 1
+order dave shoes 1
+order eve jackets 1
+order frank belts 3
+order grace sunglasses 1
+order henry watches 1
+order isabel backpacks 1
+order jack hats 2
+
+order kevin hats 10
+order linda socks 20
+order mike shirts 5
+order nancy pants 3
+order oliver shoes 2
+order patricia jackets 1
+order quincy belts 2
+order rachel sunglasses 1
+order sam watches 1
+order tina backpacks 1
+
+checkin hats 100
+checkin socks 200
+checkin shirts 50
+
+order ursula hats 15
+order victor socks 25
+order wendy shirts 8
+order xavier pants 4
+order yvonne shoes 3
+order zack jackets 2
+order amy belts 5
+order ben sunglasses 3
+order clara watches 2
+order dan backpacks 2
+
+order alice pants 1
+order bob shoes 1
+order carol jackets 1
+order dave belts 2
+order eve sunglasses 1
+order frank watches 1
+order grace backpacks 1
+order henry hats 3
+order isabel socks 5
+order jack shirts 2
